@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/views/upload/form.jsp=UTF-8
+encoding//src/main/java/com/poly/LoginServlet.java=UTF-8
+encoding//src/main/java/com/poly/SendMailServlet.java=UTF-8
+encoding//src/main/java/com/poly/StaffServlet.java=UTF-8
+encoding//src/main/java/com/poly/TextMail.java=UTF-8
+encoding//src/main/java/com/poly/UploadServlet.java=UTF-8
